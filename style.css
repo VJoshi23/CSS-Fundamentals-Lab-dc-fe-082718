@@ -32,10 +32,10 @@ figcaption {
   font-size: 80%;
 }
 #details {
-  
+  display: block;
 }
 #details div {
-  
+  float: left;
   text-align: center;
   background-color: red;
   width: 25%;
